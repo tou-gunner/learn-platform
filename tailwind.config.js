@@ -8,6 +8,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        primary: "var(--primary)",
+        primary_accent: "var(--primary_accent)",
+        secondary: "var(--secondary)",
+        secondary_accent: "var(--secondary_accent)",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },

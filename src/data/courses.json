@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Web Development",
+      "instructor": "John Smith",
+      "description": "Learn the fundamentals of web development, including HTML, CSS, and JavaScript. This course is perfect for beginners.",
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "price": 39.99,
+      "enrolledStudents": 1500,
+      "rating": 4.8,
+      "lessons": [
+        { "id": 1, "title": "Introduction to HTML", "duration": "1 hour" },
+        { "id": 2, "title": "Styling with CSS", "duration": "1.5 hours" },
+        { "id": 3, "title": "JavaScript Basics", "duration": "2 hours" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Advanced JavaScript Techniques",
+      "instructor": "Emily Johnson",
+      "description": "Explore advanced JavaScript concepts such as closures, async programming, and design patterns. Intended for intermediate developers.",
+      "duration": "5 weeks",
+      "level": "Intermediate",
+      "price": 59.99,
+      "enrolledStudents": 890,
+      "rating": 4.6,
+      "lessons": [
+        { "id": 1, "title": "Closures in JavaScript", "duration": "1.5 hours" },
+        { "id": 2, "title": "Asynchronous JavaScript", "duration": "2 hours" },
+        { "id": 3, "title": "Design Patterns in JavaScript", "duration": "2.5 hours" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mastering Tailwind CSS",
+      "instructor": "Michael Brown",
+      "description": "A comprehensive guide to building responsive and modern websites using the Tailwind CSS framework.",
+      "duration": "4 weeks",
+      "level": "Intermediate",
+      "price": 29.99,
+      "enrolledStudents": 1350,
+      "rating": 4.9,
+      "lessons": [
+        { "id": 1, "title": "Introduction to Tailwind", "duration": "1 hour" },
+        { "id": 2, "title": "Responsive Design with Tailwind", "duration": "1.5 hours" },
+        { "id": 3, "title": "Advanced Layouts", "duration": "2 hours" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Next.js for Beginners",
+      "instructor": "Sophia Davis",
+      "description": "This course introduces you to Next.js, a popular React framework. Learn to build full-stack applications with ease.",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "price": 49.99,
+      "enrolledStudents": 1600,
+      "rating": 4.7,
+      "lessons": [
+        { "id": 1, "title": "Introduction to Next.js", "duration": "1 hour" },
+        { "id": 2, "title": "Pages and Routing", "duration": "1.5 hours" },
+        { "id": 3, "title": "Data Fetching with Next.js", "duration": "2 hours" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Database Design with PostgreSQL",
+      "instructor": "David Martinez",
+      "description": "Learn how to design efficient databases using PostgreSQL. This course covers normalization, indexing, and advanced queries.",
+      "duration": "7 weeks",
+      "level": "Advanced",
+      "price": 69.99,
+      "enrolledStudents": 1050,
+      "rating": 4.8,
+      "lessons": [
+        { "id": 1, "title": "Introduction to Databases", "duration": "1 hour" },
+        { "id": 2, "title": "Database Normalization", "duration": "2 hours" },
+        { "id": 3, "title": "Indexing and Query Optimization", "duration": "2.5 hours" }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Building REST APIs with Node.js",
+      "instructor": "Sarah Thompson",
+      "description": "Learn to build robust and scalable RESTful APIs using Node.js and Express. This course is suitable for back-end developers.",
+      "duration": "6 weeks",
+      "level": "Intermediate",
+      "price": 59.99,
+      "enrolledStudents": 980,
+      "rating": 4.6,
+      "lessons": [
+        { "id": 1, "title": "Introduction to REST APIs", "duration": "1.5 hours" },
+        { "id": 2, "title": "Setting Up Node.js with Express", "duration": "2 hours" },
+        { "id": 3, "title": "Building RESTful Routes", "duration": "2 hours" }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Introduction to Machine Learning",
+      "instructor": "Laura Wilson",
+      "description": "A beginner-friendly introduction to machine learning concepts, algorithms, and real-world applications.",
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "price": 79.99,
+      "enrolledStudents": 1200,
+      "rating": 4.7,
+      "lessons": [
+        { "id": 1, "title": "Machine Learning Basics", "duration": "2 hours" },
+        { "id": 2, "title": "Supervised vs. Unsupervised Learning", "duration": "2.5 hours" },
+        { "id": 3, "title": "Real-world Applications", "duration": "2 hours" }
+      ]
+    }
+  ]
+  

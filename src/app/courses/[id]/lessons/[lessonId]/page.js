@@ -1,0 +1,1 @@
+export default function LessonPage({ params }) { return <div>Lesson {params.lessonId} for Course {params.id} Page</div> }
